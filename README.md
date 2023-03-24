@@ -3,7 +3,7 @@
 
 
 - 🐱‍👤 Estudante noob demais
-- 🔮 Me movendo para entender como os códigos se transformam em coisas incríveis 
+- 🔮 Aprendendo PHP e noções de BD/MySql
 - 👽 Frequentemente me chamam de Alexa, e em seguida me pedem para cantar uma música ou algo assim
 
 
