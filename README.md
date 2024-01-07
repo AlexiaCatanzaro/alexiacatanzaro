@@ -2,8 +2,8 @@
 
 
 
-- 🐱‍👤 Estudante noob demais
-- 🔮 Aprendendo PHP e noções de BD/MySql
+- 🐱‍👤 Estudante e viajante 
+- 🔮 Aprendendo Kotlin
 - 👽 Frequentemente me chamam de Alexa, e em seguida me pedem para cantar uma música ou algo assim
 
 
