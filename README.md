@@ -15,6 +15,7 @@
 <img align="center"  height="40" width="50"   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />    
 <img align="center"  height="40" width="50"   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />    
 <img align="center"  height="40" width="50"   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+         
           
             
 
