@@ -28,7 +28,7 @@
 <div> 
   <a href="https://www.instagram.com/catanzaroalexia/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/alexia-catanzaro-93855a23a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-  <a href="1014917103721136129" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  
            
    ![Snake animation](https://github.com/alexiacatanzaro/alexiacatanzaro/blob/output/github-contribution-grid-snake.svg)
                
