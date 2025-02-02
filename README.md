@@ -3,8 +3,7 @@
 
 
 - 🐱‍👤 Estudante e viajante
-- 👾 Interessada em programação Android 
-- 🔮 Atualmente aprendendo Kotlin
+- 👾 FrontEnd 
 - 👽 Frequentemente me chamam de Alexa, e em seguida me pedem para cantar uma música ou algo assim
 - 👇 Sinta-se à vontade para se conectar comigo nas redes abaixo 
 
