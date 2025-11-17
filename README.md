@@ -1,4 +1,4 @@
- ### Oiê, eu sou a Alexia Catanzaro 🧠 
+ ### Oiê, eu sou a Alexia 🧠 
 
 
 
